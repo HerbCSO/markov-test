@@ -13,3 +13,8 @@ How to run
 ----------
 
 `./markov.rb *.txt`
+
+CREDITS
+=======
+
+Books are downloaded from the [Gutenberg Project](http://www.gutenberg.org/).
