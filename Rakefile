@@ -1,6 +1,6 @@
 task default: [:build]
 
 task :build do
-  sh %{ ruby markov.rb *.txt }
+  sh %{ ./markov.rb *.txt.us }
 end
 
